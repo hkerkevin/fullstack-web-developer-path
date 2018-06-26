@@ -13,7 +13,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | :------: | ------ | ------ | ------------ | :-------: |
 | Stopped at Wk 2, plan to come back | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  |S: 4/20|
 | End 5/10, little too wordy, great explanation in the html and css terms (Skim)| Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |  Shay Howe's  | S: 4/23 |
-|  | Course | The Web Developer Bootcamp by Colt Steele  on Udemy (Paid) |  |S: 4/27|
+|Finished HTML, CSS, Bootstrap; JS (IP)  | Course | The Web Developer Bootcamp by Colt Steele  on Udemy (Paid) |  |S: 4/27|
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |S: |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
