@@ -18,10 +18,10 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
-|  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | End 6/16 (Skipped last 12 lessons)  | Book | Smarter Way to Learn JavaScript |   | S: 5/12 |
 | End 6/23 (Skipped animation parts)  | Book | Smarter Way to Learn JQuery |   | S: 6/16 |
 |  | FCC Cert | FCC Responsive Web Design Certification (300 hours)| All lessons and projects  | S:7/4 |
+|  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
