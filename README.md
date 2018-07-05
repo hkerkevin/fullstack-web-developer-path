@@ -9,7 +9,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## The Fundamentals
 
-| Comments | Type | Item | Project(s) | Date |
+| Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
 | End 5/12 | Course | Full stack python web developer course (AJ Chan) (Paid monthly $250) | Backend Django CRUD |S: 4/11|
 | Stopped at Wk 2, plan to come back | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  |S: 4/20| 
