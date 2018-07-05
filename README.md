@@ -11,6 +11,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
+| End 5/12 | Course | Full stack python web developer course (AJ Chan) | Backend Django CRUD |S: 4/11|
 | Stopped at Wk 2, plan to come back | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  |S: 4/20|
 | End 5/10, little too wordy, great explanation in the html and css terms (Skim)| Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |  Shay Howe's  | S: 4/23 |
 |Finished HTML, CSS, Bootstrap; JS (IP)  | Course | The Web Developer Bootcamp by Colt Steele  on Udemy (Paid) | Frontend parts |S: 4/27|
