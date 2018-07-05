@@ -20,6 +20,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 | End 6/16 (Skipped last 12 lessons)  | Book | Smarter Way to Learn JavaScript |   | S: 5/12 |
 | End 6/23 (Skipped animation parts)  | Book | Smarter Way to Learn JQuery |   | S: 6/16 |
+| Made To-do list webapp | Lesson | Learning AJAX | jQuery post/ get request  | S: 6/23 |
 |  | Milestone | FCC Responsive Web Design Certification (300 hours)| All lessons and projects  | S:7/4 |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
