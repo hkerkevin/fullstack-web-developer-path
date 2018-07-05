@@ -15,7 +15,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | End 5/10, little too wordy, great explanation in the html and css terms (Skim)| Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |  Shay Howe's  | S: 4/23 |
 |Finished HTML, CSS, Bootstrap; JS (IP)  | Course | The Web Developer Bootcamp by Colt Steele  on Udemy (Paid) | Frontend parts |S: 4/27|
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
-|  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
+|  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)| Udacity   | 7/5   |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 | End 6/16 (Skipped last 12 lessons)  | Book | Smarter Way to Learn JavaScript |   | S: 5/12 |
